@@ -1,0 +1,11 @@
+# Dependências
+/node_modules
+
+# Arquivo de Variáveis de Ambiente
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+comandos-criar-banco.md
